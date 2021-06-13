@@ -1,0 +1,7 @@
+{
+    "packAuthor": "NillerMedDild",
+    "minecraftVersion": "1.17.0",
+    "modLoader": "forge",
+    "modLoaderVersion": "37.0.0",
+    "includes": ["building_gadgets_patterns", "config", "defaultconfigs", "kubejs", "packmenu", "patchouli_books"]
+}

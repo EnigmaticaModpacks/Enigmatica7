@@ -142,6 +142,8 @@ $CONFIGS_TO_REMOVE_FROM_CLIENT_FILES = @(
 	"gravestone-client.toml"
 )
 
+$FOLDERS_TO_REMOVE_FROM_CLIENT_FILES = @()
+
 #=====================================================================//
 #  SERVER FILE SETTINGS
 #=====================================================================//
